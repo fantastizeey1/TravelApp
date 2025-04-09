@@ -1,3 +1,5 @@
+"use client";
+
 import { useEffect } from "react";
 import Camp from "@/components/Camp";
 import Features from "@/components/Features";
